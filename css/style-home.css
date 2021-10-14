@@ -1,0 +1,42 @@
+body {
+ 
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background: #fdd3df;
+    padding: 30px;
+}
+.titulo-principal{
+    padding-left: 20px;
+}
+.titulos{
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: white;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.banho {
+    width: 50%;
+}
